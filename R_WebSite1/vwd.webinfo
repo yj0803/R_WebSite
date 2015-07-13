@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.statconnectorcommonlib" ID="{28C8B666-81A2-11D3-9254-00E09812F727}\1.3\0"/>
+    <reference Name="interop.statconnectorsrvlib" ID="{18C8B661-81A2-11D3-9254-00E09812F727}\1.1\0"/>
+    <reference Name="interop.statconntools" ID="{C2D7BB57-8442-4580-9E96-67076D07D059}\107.0\0"/>
+    <reference Name="interop.statconnectorclntlib" ID="{18C8B666-81A2-11D3-9254-00E09812F727}\1.0\0"/>
+    <reference Name="interop.statconncontrols" ID="{9435F5A3-5D0B-4B9C-BE7E-13AE1AA7E68C}\9.1\0"/>
+  </comReferences>
+</VisualWebDeveloper>
